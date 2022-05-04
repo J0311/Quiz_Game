@@ -3,6 +3,7 @@
 #---------------------
 
 def new_game():
+    
 #Creating a LIST called "guesses"
 
     guesses = []
@@ -97,5 +98,6 @@ new_game()
 
 while play_again():
     new_game()
+    
 
 print("Goodbye!")

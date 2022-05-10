@@ -14,6 +14,8 @@ def new_game():
 
     for key in questions:
         print("---------------------")
+        print("---------------------")
+
         print(key)
 
 # Nested for loop to print out options per question. Since the first
@@ -98,6 +100,6 @@ new_game()
 
 while play_again():
     new_game()
-    
 
+    
 print("Goodbye!")

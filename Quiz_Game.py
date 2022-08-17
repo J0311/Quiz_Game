@@ -9,7 +9,6 @@ def new_game():
     guesses = []
     correct_guesses = 0
     question_num = 1
-    
 
 # for loop which prints the keys from questions dictionary
 
